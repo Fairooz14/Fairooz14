@@ -5,7 +5,7 @@
 <h2>I'm currently working on these languages.💪🏻</h2>
 <img align="left" height="10%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairooz14&layout=pie"/>
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br><br><br><br><br><br><br><br>
 I am so excited to shar my coding journey with you .Thank you for taking the time to visit my GitHub profile.Feel free to follow connect with me. I look forward to sharing more exciting projects and learning experiences with you. Feel free to explore, fork, and provide feedback. Happy coding!❤️
 
 
