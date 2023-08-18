@@ -7,6 +7,6 @@
 
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br>  <br>
-I am so excited to share my coding journey with you. Thank you for taking the time to visit my GitHub profile. Feel free to follow connect with me. I look forward to sharing more exciting projects and learning experiences with you. Feel free to explore, fork, and provide feedback. Happy coding!❤️
+I am so excited to share my coding journey with you. Thank you for taking the time to visit my GitHub profile. Feel free to connect with me. I look forward to sharing more exciting projects and learning experiences with you. Feel free to explore, fork, and provide feedback. Happy coding!❤️
 
 
