@@ -1,4 +1,4 @@
-<h1>Hello World! I'm Fairooz.🙋🏻‍♀️</h1>
+<h1>Hello World! I'm Fairooz. <img align="right" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="160" /> </h1>
 <h6></h6>Welcome to my profile.I am a beginner, passionate and enthusiastic developer who is eager to learn and create.👩🏻‍💻I'm learning multiple languages and trying to create amazing projects.
 <h2>Here is my little progress on GitHub🚀</h2>
 <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
