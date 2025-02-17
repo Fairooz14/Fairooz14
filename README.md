@@ -27,7 +27,7 @@ Even a wizard has to learn new spells! Currently, I’m mastering:
 ## 🧙 Hogwarts-Like Adventures
 
 My journey has been full of **magical moments**:
-- Teaching Muggles (ahem, students) as a **Teaching Assistant** in C and C++.
+- Teaching Muggles (ahem, students) as a **Teaching Assistant**.
 - Competing in hackathons is like participating in the **Triwizard Tournament** — exciting, challenging, and full of teamwork!
 - Balancing leadership roles in **IEEE Organizations**.
 
