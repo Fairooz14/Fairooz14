@@ -1,6 +1,6 @@
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
-<h1>⚡ Hello, Muggle! I'm Fairooz Nahiyan <img align="right" src="https://media.giphy.com/media/ORlUZyEmtHNdJyijwr/giphy.gif" width="160" /> </h1>
+<h1>⚡ Hello, Muggle! I'm Fairooz Nahiyan <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBrbHZnaG82OWJpaXFyMDZudXRqNjh1dzRocmIzMHZldTVuNjY4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VCznj4p0ORRWOnrarF/giphy.gif" width="160" /> </h1>
 Welcome to my GitHub profile, where magic meets code! When I'm not casting spells or practicing my Patronus charm, I’m designing and developing solutions to solve real-world problems. 
 <h2>🪄 Potterverse in My Journey</h2>
 <center>
