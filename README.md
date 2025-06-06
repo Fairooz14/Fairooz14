@@ -5,8 +5,18 @@ Welcome to my GitHub profile, where magic meets code! When I'm not casting spell
 <h2>🪄 Potterverse in My Journey</h2>
 <center>
 
+<!-- Copy-paste in your Readme.md file -->
 
-<img align = "center" width="100%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairooz14&theme=midnight_purple">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=102751153" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=102751153&image_size=auto&color_scheme=dark" width="100%" height="auto">
+    <img alt="Dashboard stats of @Fairooz14" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=102751153&image_size=auto&color_scheme=dark" width="100%" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- <img align = "center" width="100%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairooz14&theme=midnight_purple"> -->
+
 
 <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 
