@@ -5,7 +5,7 @@ Welcome to my GitHub profile, where magic meets code! When I'm not casting spell
 <h2>🪄 Potterverse in My Journey</h2>
 <center>
 
-<!-- Copy-paste in your Readme.md file -->
+<!-- Copy-paste in your Readme.md file 
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=102751153" target="_blank" style="display: block" align="center">
   <picture>
@@ -14,15 +14,15 @@ Welcome to my GitHub profile, where magic meets code! When I'm not casting spell
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<!-- <img align = "center" width="100%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairooz14&theme=midnight_purple"> -->
+Made with [OSS Insight](https://ossinsight.io/) -->
+ <img align = "center" width="100%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairooz14&theme=midnight_purple">
 
-<!--<img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+<img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 
 <img align="right" width="38%" height="20%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </ceneter>
 
- <br> <br> <br> <br> <br> <br> <br> <br> -->
+ <br> <br> <br> <br> <br> <br> <br> <br> 
 
 ---
 I bring the **courage of a Gryffindor**, the **wit of a Ravenclaw**, and the **loyalty of a Hufflepuff** to everything I do (maybe even a hint of **Slytherin ambition** when it comes to my goals!). My work is a mix of **creativity, problem-solving**, and making sure **teamwork** feels like a Dumbledore's Army mission.
