@@ -8,7 +8,7 @@
 - 🧠 **ML** prototypes focused on medical imaging & responsible AI
 
 
----
+
 
 ## 📈 Stats
 <p align="center">
@@ -19,9 +19,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top languages used by Fairooz14" height="165" />
 </div>
 
----
 
----
+
 
 ## 🧰 Toolkit
 <p align="left">
@@ -33,7 +32,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
 </p>
 
----
+
 
 ## ⭐ Highlights (current)
 - **Ferrari F1 Explorer (Flutter)** — a beginner-friendly F1 knowledge app with a clean, scalable structure.  
@@ -44,6 +43,6 @@
 ---
 
 
-**Email:** [fairoozcse@gmail.com](mailto:fairoozcse@gmail.com) • **GitHub:** [@Fairooz14](https://github.com/Fairooz14)
+**Email:** [fairoozcse@gmail.com](mailto:fairoozcse@gmail.com) • **LinnkedIn:** [fairooznahiyan](https://www.linkedin.com/in/fairooznahiyan/)
 
 <small>`Patronus: clean architecture.`</small>
