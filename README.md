@@ -1,50 +1,49 @@
-
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
-<h1>⚡ Hello, Muggle! I'm Fairooz Nahiyan <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBrbHZnaG82OWJpaXFyMDZudXRqNjh1dzRocmIzMHZldTVuNjY4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VCznj4p0ORRWOnrarF/giphy.gif" width="160" /> </h1>
-Welcome to my GitHub profile, where magic meets code! When I'm not casting spells or practicing my Patronus charm, I’m designing and developing solutions to solve real-world problems. 
-<h2>🪄 Potterverse in My Journey</h2>
-<center>
 
-<!-- Copy-paste in your Readme.md file 
+# ⚡ Fairooz Nahiyan
+> Mobile apps × AI research — pixel-polished UIs, data-driven brains.
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=102751153" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=102751153&image_size=auto&color_scheme=dark" width="100%" height="auto">
-    <img alt="Dashboard stats of @Fairooz14" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=102751153&image_size=auto&color_scheme=dark" width="100%" height="auto">
-  </picture>
-</a>
+### I’m building
+- 📱 **Flutter** apps with clean architecture & thoughtful UX  
+- 🧠 **ML** prototypes focused on medical imaging & responsible AI
 
-Made with [OSS Insight](https://ossinsight.io/) -->
- <img align = "center" width="100%" src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairooz14&theme=midnight_purple">
-
-<img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-
-<img align="right" width="38%" height="20%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-</ceneter>
-
- <br> <br> <br> <br> <br> <br> <br> <br> 
 
 ---
-I bring the **courage of a Gryffindor**, the **wit of a Ravenclaw**, and the **loyalty of a Hufflepuff** to everything I do (maybe even a hint of **Slytherin ambition** when it comes to my goals!). My work is a mix of **creativity, problem-solving**, and making sure **teamwork** feels like a Dumbledore's Army mission.
 
-
-## 🔮 Tech Magic I’m Learning
-
-Even a wizard has to learn new spells! Currently, I’m mastering:
-- **Flutter Development:** Think of it as crafting spells for mobile apps, like my **Titan Trivia 3023**.
-- **AI Wizardry:** Using artificial intelligence for good, with responsible governance in mind — just as we’d protect the wizarding world from misuse of magic.
-
-## 🧙 Hogwarts-Like Adventures
-
-My journey has been full of **magical moments**:
-- Teaching Muggles (ahem, students) as a **Teaching Assistant**.
-- Competing in hackathons is like participating in the **Triwizard Tournament** — exciting, challenging, and full of teamwork!
-- Balancing leadership roles in **IEEE Organizations**.
-
-## 📫 Send Me an Owl!
-
-If you'd like to discuss Potter theories, **collaborate on projects**, or simply chat about coding spells, feel free to reach out to me.
+## 📈 Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairooz14&theme=midnight_purple" alt="GitHub profile summary cards" width="100%" />
+</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats for Fairooz14" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top languages used by Fairooz14" height="165" />
+</div>
 
 ---
-### Mischief Managed! ✨
 
+---
+
+## 🧰 Toolkit
+<p align="left">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
+</p>
+
+---
+
+## ⭐ Highlights (current)
+- **Ferrari F1 Explorer (Flutter)** — a beginner-friendly F1 knowledge app with a clean, scalable structure.  
+  `Flutter` `Dart` `Firebase` • https://github.com/Fairooz14/Ferrari_F1
+- **Medical Image Processing (Research)** — pipelines for detection/segmentation with careful preprocessing and evaluation.  
+  `Python` `TensorFlow` `YOLO/SAM/CNN` 
+
+---
+
+
+**Email:** [fairoozcse@gmail.com](mailto:fairoozcse@gmail.com) • **GitHub:** [@Fairooz14](https://github.com/Fairooz14)
+
+<small>`Patronus: clean architecture.`</small>
