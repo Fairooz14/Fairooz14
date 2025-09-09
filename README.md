@@ -43,6 +43,8 @@
 ---
 
 
-**Email:** [fairoozcse@gmail.com](mailto:fairoozcse@gmail.com) • **LinnkedIn:** [fairooznahiyan](https://www.linkedin.com/in/fairooznahiyan/)
+**Email:** [fairoozcse@gmail.com](mailto:fairoozcse@gmail.com) 
+
+**LinkedIn:** [fairooznahiyan](https://www.linkedin.com/in/fairooznahiyan/)
 
 <small>`Patronus: clean architecture.`</small>
