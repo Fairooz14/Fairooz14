@@ -14,10 +14,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairooz14&theme=midnight_purple" alt="GitHub profile summary cards" width="100%" />
 </p>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats for Fairooz14" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top languages used by Fairooz14" height="165" />
-</div>
+</div> -->
 
 
 
