@@ -1,12 +1,12 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
 
 # ⚡ Fairooz Nahiyan
-> Mobile apps × AI research — pixel-polished UIs, data-driven brains.
+> AI for Healthcare × Medical Imaging × LLM Evaluation — developing models that improve real-world decision-making.
 
 ### I’m building
-- 📱 **Flutter** apps with clean architecture & thoughtful UX  
-- 🧠 **ML** prototypes focused on medical imaging & responsible AI
-
+- 🧠 **Deep learning pipelines** for medical image detection & segmentation  
+- 🔍 Studying reliability, consistency, and robustness in LLMs 
+- 🧪 **Experimental ML systems** with a focus on model reliability, fairness & generalization  
 
 
 
@@ -14,35 +14,37 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairooz14&theme=midnight_purple" alt="GitHub profile summary cards" width="100%" />
 </p>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats for Fairooz14" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairooz14&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top languages used by Fairooz14" height="165" />
-</div> -->
-
 
 
 
 ## 🧰 Toolkit
 <p align="left">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
 </p>
 
 
 
 ## ⭐ Highlights (current)
-- **Ferrari F1 Explorer (Flutter)** — a beginner-friendly F1 knowledge app with a clean, scalable structure.  
-  `Flutter` `Dart` `Firebase` • https://github.com/Fairooz14/Ferrari_F1
-- **Medical Image Processing (Research)** — pipelines for detection/segmentation with careful preprocessing and evaluation.  
-  `Python` `TensorFlow` `YOLO/SAM/CNN` 
+
+- **Horcrux_GPT** — a research tool that provides context-aware explanations, summaries, and Q&A for educational content.  
+  `Python` `Gemini API` `Streamlit` 
+
+- **Japanese F1 Grand Prix Prediction 2025** — ensemble ML pipeline combining XGBoost & LightGBM to forecast race outcomes using engineered features.  
+  `ML Pipeline` `XGBoost` `LightGBM`
+
+- **Plant Disease Classification** — CNN-based classifier using ResNet/VGG with augmentation & transfer learning for multi-disease detection.  
+  `Deep Learning` `CNN` `Image Classification`
+
+
 
 ---
 
+**Email:** [fairooznahiyangrad@gmail.com](mailto:fairooznahiyangrad@gmail.com) • **LinkedIn:** [fairooznahiyan](https://www.linkedin.com/in/fairooznahiyan/)
 
-**Email:** [fairoozcse@gmail.com](mailto:fairoozcse@gmail.com) • **LinkedIn:** [fairooznahiyan](https://www.linkedin.com/in/fairooznahiyan/)
-
-<small>`Patronus: clean architecture.`</small>
+<small>`Patronus: reproducible research.`</small>
